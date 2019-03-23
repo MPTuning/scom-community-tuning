@@ -1,26 +1,20 @@
 [
     {
-        "OverrideCollectionName":  "IIS 7 (Server 2008)",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "IIS 7 (Server 2008)"
     },
     {
-        "OverrideCollectionName":  "IIS 8 (Server 2012)",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "IIS 8 (Server 2012)"
     },
     {
-        "OverrideCollectionName":  "SQL Server 2008",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "SQL Server 2008"
     },
     {
-        "OverrideCollectionName":  "SQL Server 2012",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "SQL Server 2012"
     },
     {
-        "OverrideCollectionName":  "Tomcat Web (5, 6, 7, and 8)",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "Tomcat Web (5, 6, 7, and 8)"
     },
     {
-        "OverrideCollectionName":  "Windows Server 2012 and 2012R2",
-        "OverrideCollectionDescription":  ""
+        "TuningPackName":  "Windows Server 2012 and 2012R2"
     }
 ]
