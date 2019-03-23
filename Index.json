@@ -1,20 +1,26 @@
 [
     {
-        "TuningPackName":  "IIS 7 (Server 2008)"
+        "TuningPackName":  "IIS 7 (Server 2008)",
+        "TuningPackDescription": ""
     },
     {
-        "TuningPackName":  "IIS 8 (Server 2012)"
+        "TuningPackName":  "IIS 8 (Server 2012)",
+        "TuningPackDescription": ""
     },
     {
-        "TuningPackName":  "SQL Server 2008"
+        "TuningPackName":  "SQL Server 2008",
+        "TuningPackDescription": ""
     },
     {
-        "TuningPackName":  "SQL Server 2012"
+        "TuningPackName":  "SQL Server 2012",
+        "TuningPackDescription": ""
     },
     {
-        "TuningPackName":  "Tomcat Web (5, 6, 7, and 8)"
+        "TuningPackName":  "Tomcat Web (5, 6, 7, and 8)",
+        "TuningPackDescription": ""
     },
     {
-        "TuningPackName":  "Windows Server 2012 and 2012R2"
+        "TuningPackName":  "Windows Server 2012 and 2012R2",
+        "TuningPackDescription": ""
     }
 ]
